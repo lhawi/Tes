@@ -4,7 +4,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Video Preview](#video-preview)
+* [Video Request](#video-request)
 
 ## General info
 Add more general information about project. What the purpose of the project is? Motivation?
@@ -14,5 +14,6 @@ Add more general information about project. What the purpose of the project is? 
 
 ## Video Request
 Ini adalah tutorial membuat audio spectrum di android untuk dijadikan status whatsapp dll, videonya lemot harap bersabar !!!
+
 ![Request](./ScreenShot/Kluntung1.gif)
 
