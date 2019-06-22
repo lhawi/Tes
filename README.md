@@ -11,3 +11,6 @@ Add more general information about project. What the purpose of the project is? 
 ## Screenshots
 ![Puisi Kerinduan](./ScreenShot/puisi-rindu.jpg)
 
+## Screenshots
+![Request](./ScreenShot/Kluntung1.gif)
+
